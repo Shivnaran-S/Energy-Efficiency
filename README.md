@@ -20,7 +20,7 @@ This project focuses on predicting the heating and cooling loads of buildings ba
    - Scatter plots for glazing_area interactions
 
 3. **Modeling**:
-   - Implemented Linear Regression and Decision Tree models
+   - Implemented Linear Regression, Decision Tree and XGBoost models
    - Evaluated using:
      - Adjusted R² score
      - MSE, RMSE, MAE
